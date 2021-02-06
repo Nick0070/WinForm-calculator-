@@ -1,0 +1,10 @@
+C:\Users\nlych\source\repos\numbers\numbers\bin\Debug\numbers.exe.config
+C:\Users\nlych\source\repos\numbers\numbers\bin\Debug\numbers.exe
+C:\Users\nlych\source\repos\numbers\numbers\bin\Debug\numbers.pdb
+C:\Users\nlych\source\repos\numbers\numbers\obj\Debug\numbers.csprojAssemblyReference.cache
+C:\Users\nlych\source\repos\numbers\numbers\obj\Debug\numbers.Form1.resources
+C:\Users\nlych\source\repos\numbers\numbers\obj\Debug\numbers.Properties.Resources.resources
+C:\Users\nlych\source\repos\numbers\numbers\obj\Debug\numbers.csproj.GenerateResource.cache
+C:\Users\nlych\source\repos\numbers\numbers\obj\Debug\numbers.csproj.CoreCompileInputs.cache
+C:\Users\nlych\source\repos\numbers\numbers\obj\Debug\numbers.exe
+C:\Users\nlych\source\repos\numbers\numbers\obj\Debug\numbers.pdb
